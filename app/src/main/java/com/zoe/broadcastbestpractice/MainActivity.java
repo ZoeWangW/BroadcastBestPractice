@@ -21,3 +21,4 @@ public class MainActivity extends BaseActivity {
         });
     }
 }
+//已解决收不到广播的问题，手机没授权
